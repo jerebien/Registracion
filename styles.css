@@ -4,3 +4,13 @@ form {
 h1 {
     text-align: center;
 }
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://image.freepik.com/foto-gratis/empresaria-adulta-trabajando-casa-usando-computadora-estudiando-ideas-negocio-pantalla-pc_141192-689.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Asegura que el fondo ocupe el 100% de la altura de la ventana */
+  }
+  
