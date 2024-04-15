@@ -1,16 +1,17 @@
 form {
-    text-align: center;
+    text-align: center; /* alinea el formulario */
 }
+
 h1 {
-    text-align: center;
+    text-align: center; /* alinea el h1 */
 }
+
 body {
-    margin: 0;
-    padding: 0;
-    background-image: url('https://image.freepik.com/foto-gratis/empresaria-adulta-trabajando-casa-usando-computadora-estudiando-ideas-negocio-pantalla-pc_141192-689.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100vh; /* Asegura que el fondo ocupe el 100% de la altura de la ventana */
-  }
-  
+    margin: 0; /* la de un margen de 0 a la página */
+    padding: 0; /* le da un relleno de 0 a la página */
+    background-image: url('https://image.freepik.com/foto-gratis/empresaria-adulta-trabajando-casa-usando-computadora-estudiando-ideas-negocio-pantalla-pc_141192-689.jpg'); /* pone de fondo de pantalla una imagen */
+    background-size: cover; /* arregla un poco la imagen de fondo */
+    background-position: center; /* posiciona en el centro la imagen de fondo */
+    background-repeat: no-repeat; /* hace que la imagen de fondo no se repita */
+    height: 100vh; /* da 100 viewport height a la página */
+}
